@@ -133,7 +133,7 @@ section{
     line-height: 25px;
 }
 .mybtn.about{
-    width: 180px;
+    width: 184px;
 }
 
 section#about {
@@ -217,4 +217,19 @@ img.shape {
     text-transform: capitalize;
     font-size: 24px;
     margin-bottom: 15px;
+}
+
+section#footer {
+    background-color:#0B0D17 ;
+    margin-bottom: 0;
+    text-align: center;
+    padding: 40px 0px;
+    color: #fff;
+}
+
+.footer-all-content h2 {
+   
+    font-size: 32px;
+    font-style: italic;
+    margin-bottom: 7px;
 }
