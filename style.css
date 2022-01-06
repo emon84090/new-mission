@@ -6,6 +6,9 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+section{
+    margin-bottom: 55px;
+}
 .half-width{
     width: 50%;
 }
@@ -25,6 +28,7 @@ body{
 .banner-heading h1 {
     font-size: 50px;
     padding-left: 5px;
+    font-family: 'Poppins', sans-serif;
 }
 .banner-heading {
     border-left: 4px solid tomato;
@@ -54,5 +58,47 @@ body{
     color: #fff;
     text-transform: capitalize;
    
+}
+
+
+.mission-box {
+    width: 32%;
+    margin: 0px 12px;
+    border-radius: 15px;
+    padding: 23px;
     
+}
+.mission-heading-text {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.mission-heading-text h1{
+    font-size: 42px;
+    color: #13103A;
+    font-weight: bold;
+}
+.mission-box img {
+    width: 50%;
+}
+
+.mission-box.box-1{
+    background: #EDF5F6;
+}
+.mission-box.box-2{
+    background: #FFEEEE;
+    
+}
+
+.mission-box.box-2{
+    background: #FFF4D6;
+}
+.mission-box h3 {
+    margin: 15px 0px;
+    font-size: 23px;
+}
+.mission-box p {
+    
+    font-size: 17px;
+    line-height: 24px;
 }
